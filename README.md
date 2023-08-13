@@ -1,4 +1,3 @@
-![MasterHead](https://www.codenetix.com/img/innerbanner_1626609259.jpg)
 <h1 align="center">Hi 👋, I'm Laxman Patel</h1>
 <h3 align="center">A Devops and Cloud enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/9fc49552a70631c92135e89ec16df1dd.gif">
