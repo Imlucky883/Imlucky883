@@ -7,12 +7,9 @@
 
 - 📫 How to reach me **laxman00778@gmail.com**
 
-- 💬 Ask me about **Stock Market & How to learn a new lanaguage**
+- 📄 Know about my experiences [https://drive.google.com/file/d/12phnreIUfI6eY2xGz5Dp7wAG8nLhY4Fw/view](https://drive.google.com/file/d/12phnreIUfI6eY2xGz5Dp7wAG8nLhY4Fw/view)
 
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/17zUjeFylgmwCUvvF991r7t_c5-QpSmTU/view?usp=share_link](https://drive.google.com/file/d/17zUjeFylgmwCUvvF991r7t_c5-QpSmTU/view?usp=share_link)
-
-- ⚡ Fun fact **I think I m funny**'
+- ⚡ Fun fact **I speak more than 5 languages**'
 
 <h3 align="left">Languages and Tools:</h3>
 
