@@ -3,13 +3,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/9fc49552a70631c92135e89ec16df1dd.gif">
 
 
-- 🌱 I’m currently learning **Terraform**
+- 🌱 I’m currently learning about **MLOps**
 
 - 📫 How to reach me **laxman00778@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12phnreIUfI6eY2xGz5Dp7wAG8nLhY4Fw/view](https://drive.google.com/file/d/12phnreIUfI6eY2xGz5Dp7wAG8nLhY4Fw/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11eIN-41ANO4N02inYWtdcc4fmSUHi4PS/view?usp=drive_link)
 
-- ⚡ Fun fact **I speak more than 5 languages**'
+- ⚡ Fun fact **I speak more than 6 languages**'
 
 <h3 align="left">Languages and Tools:</h3>
 
