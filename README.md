@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **laxman00778@gmail.com**
 
-- 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/11eIN-41ANO4N02inYWtdcc4fmSUHi4PS/view?usp=drive_link)
+- 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1OpQskWVmKvhS_2g-cUqULaGtjfgu0IPv/view?usp=drive_link)
 
 - ⚡ Fun fact **I speak more than 6 languages**
 
